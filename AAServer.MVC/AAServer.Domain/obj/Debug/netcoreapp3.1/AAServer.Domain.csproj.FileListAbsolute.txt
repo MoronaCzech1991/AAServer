@@ -28,6 +28,8 @@ C:\Sources\AAServer\AAServer.MVC\AAServer.Domain\obj\Debug\netcoreapp3.1\AAServe
 C:\Sources_MVC\AAServer\AAServer.MVC\AAServer.Domain\bin\Debug\netcoreapp3.1\AAServer.Domain.deps.json
 C:\Sources_MVC\AAServer\AAServer.MVC\AAServer.Domain\bin\Debug\netcoreapp3.1\AAServer.Domain.dll
 C:\Sources_MVC\AAServer\AAServer.MVC\AAServer.Domain\bin\Debug\netcoreapp3.1\AAServer.Domain.pdb
+C:\Sources_MVC\AAServer\AAServer.MVC\AAServer.Domain\obj\Debug\netcoreapp3.1\AAServer.Domain.csproj.AssemblyReference.cache
+C:\Sources_MVC\AAServer\AAServer.MVC\AAServer.Domain\obj\Debug\netcoreapp3.1\AAServer.Domain.GeneratedMSBuildEditorConfig.editorconfig
 C:\Sources_MVC\AAServer\AAServer.MVC\AAServer.Domain\obj\Debug\netcoreapp3.1\AAServer.Domain.AssemblyInfoInputs.cache
 C:\Sources_MVC\AAServer\AAServer.MVC\AAServer.Domain\obj\Debug\netcoreapp3.1\AAServer.Domain.AssemblyInfo.cs
 C:\Sources_MVC\AAServer\AAServer.MVC\AAServer.Domain\obj\Debug\netcoreapp3.1\AAServer.Domain.csproj.CoreCompileInputs.cache

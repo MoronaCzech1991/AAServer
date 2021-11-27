@@ -1,6 +1,7 @@
 ﻿using Microsoft.AspNetCore.Builder;
 using Microsoft.AspNetCore.Hosting;
 using Microsoft.Extensions.Hosting;
+using React.AspNet;
 
 namespace AAServer.MVC
 {
@@ -21,6 +22,12 @@ namespace AAServer.MVC
             }
 
             app.UseHttpsRedirection();
+
+            app.UseReact(config =>
+            {
+
+            });
+
             app.UseStaticFiles();
             app.UseRouting();
 

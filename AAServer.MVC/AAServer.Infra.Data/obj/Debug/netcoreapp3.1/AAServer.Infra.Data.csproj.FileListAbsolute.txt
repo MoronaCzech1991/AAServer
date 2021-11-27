@@ -44,7 +44,8 @@ C:\Sources_MVC\AAServer\AAServer.MVC\AAServer.Infra.Data\bin\Debug\netcoreapp3.1
 C:\Sources_MVC\AAServer\AAServer.MVC\AAServer.Infra.Data\bin\Debug\netcoreapp3.1\AAServer.Infra.Data.pdb
 C:\Sources_MVC\AAServer\AAServer.MVC\AAServer.Infra.Data\bin\Debug\netcoreapp3.1\AAServer.Domain.dll
 C:\Sources_MVC\AAServer\AAServer.MVC\AAServer.Infra.Data\bin\Debug\netcoreapp3.1\AAServer.Domain.pdb
-C:\Sources_MVC\AAServer\AAServer.MVC\AAServer.Infra.Data\obj\Debug\netcoreapp3.1\AAServer.Infra.Data.csprojAssemblyReference.cache
+C:\Sources_MVC\AAServer\AAServer.MVC\AAServer.Infra.Data\obj\Debug\netcoreapp3.1\AAServer.Infra.Data.csproj.AssemblyReference.cache
+C:\Sources_MVC\AAServer\AAServer.MVC\AAServer.Infra.Data\obj\Debug\netcoreapp3.1\AAServer.Infra.Data.GeneratedMSBuildEditorConfig.editorconfig
 C:\Sources_MVC\AAServer\AAServer.MVC\AAServer.Infra.Data\obj\Debug\netcoreapp3.1\AAServer.Infra.Data.AssemblyInfoInputs.cache
 C:\Sources_MVC\AAServer\AAServer.MVC\AAServer.Infra.Data\obj\Debug\netcoreapp3.1\AAServer.Infra.Data.AssemblyInfo.cs
 C:\Sources_MVC\AAServer\AAServer.MVC\AAServer.Infra.Data\obj\Debug\netcoreapp3.1\AAServer.Infra.Data.csproj.CoreCompileInputs.cache
